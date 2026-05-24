@@ -27,14 +27,16 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "hi",
-        "I like to play Minecraft!"
-      ]
+  "enabled": true,
+  "repeat": true,
+  "repeat-delay": 120000,
+  "messages": [
+    "/register chalol178",
+    "/login chalol78",
+    "hi",
+    "I'm a regular player",
+    "I like to play Minecraft!"
+  ]
     },
     "chat-log": true,
     "auto-reconnect": true,
